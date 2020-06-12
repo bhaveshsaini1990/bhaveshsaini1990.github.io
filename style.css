@@ -44,7 +44,18 @@ body{
 .bgcolor-black{
     background-color: var(--color-black);
 }
-
+.projects:hover{
+    background-color: #6a74ff;
+    cursor: pointer;
+}
+.achievements:hover{
+    background-color: #80ff60;
+    cursor: pointer;
+}
+.internship:hover{
+    background-color: rgb(255, 230, 88);
+    cursor: pointer;
+}
 /* #global classes */
 
 #header{
