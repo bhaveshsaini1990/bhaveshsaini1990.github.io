@@ -56,6 +56,10 @@ body{
     background-color: rgb(255, 230, 88);
     cursor: pointer;
 }
+.ref:hover{
+    background-color: rgb(175, 90, 255);
+    cursor: pointer;
+}
 /* #global classes */
 
 #header{
@@ -96,7 +100,7 @@ body{
 
 .toggle-left{
     left: 0 !important;
-    width: 1000px !important;
+    width: 100px !important;
 }
 
 /* site-main */
